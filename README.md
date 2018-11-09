@@ -15,7 +15,7 @@ Want to engage with the  Data science community on Twitter, but don't know where
 - [@VincenzoCoia](https://twitter.com/VincenzoCoia) (Data Scientist and Teaching Fellow at The University of British Columbia. Outdoor enthusiast.)
 - [@MikeGelbart](https://twitter.com/MikeGelbart) (Teaches machine learning and data science at UBC. VC advisor. Aspiring outdoor enthusiast.)
 - [@LourenzuttiR](https://twitter.com/LourenzuttiR) 
-- [@davidklaing](https://twitter.com/davidklaing) (Data scientist @imbellus, lecturer @UBCMDS.) 
+- [@VaradaKolhatkar](https://twitter.com/VaradaKolhatkar) 
 - [@UBCMDS](https://twitter.com/UBCMDS) (UBC Master of Data Science)
 
 ### R people and resources
@@ -64,3 +64,4 @@ Want to engage with the  Data science community on Twitter, but don't know where
 - @sjGoring (Asst Scientist at @uwmadisongeog, Adjunct prof, UBC Comp Sci. He/him/they/them. All thoughts/tweets my own. @neotomadb IT Lead)
 - @lexnederbragt (Senior lecturer at @UniOslo. Biologist, bioinformatician, educator, @thecarpentries instructor. He/him/his #openscience. http://orcid.org/0000-0001-5539-0999 …)
 - @ctitusbrown (Tripping the light academic. Titus is a professor in the School of VetMed at UC Davis. http://orcid.org/0000-0001-6001-2677 …)
+- [@davidklaing](https://twitter.com/davidklaing) (Data scientist @imbellus, lecturer @UBCMDS.) 
