@@ -3,8 +3,8 @@
 Want to engage with the  Data science community on Twitter, but don't know where to start? Here's some hashtags and handles to start with to get you up and going (a subset of folks I follow)! Lists are in no particular order!
 
 ## Hashtags
-- #rstats
-- #datascience
+- [#rstats](https://twitter.com/search?f=tweets&vertical=default&q=%23rstats&src=typd)
+- [#datascience](https://twitter.com/search?f=tweets&vertical=news&q=%23datascience&src=typd)
 - #machinelearning
 - #reproducibility
 
