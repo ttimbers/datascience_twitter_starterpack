@@ -5,8 +5,8 @@ Want to engage with the  Data science community on Twitter, but don't know where
 ## Hashtags
 - [#rstats](https://twitter.com/search?f=tweets&vertical=default&q=%23rstats&src=typd)
 - [#datascience](https://twitter.com/search?f=tweets&vertical=news&q=%23datascience&src=typd)
-- #machinelearning
-- #reproducibility
+- [#machinelearning](https://twitter.com/search?f=tweets&q=%23machinelearning&src=typd)
+- [#reproducibility](https://twitter.com/search?f=tweets&q=%23reproducibility&src=typd)
 
 ## Handles
 
