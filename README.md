@@ -7,6 +7,10 @@ Want to engage with the  Data science community on Twitter, but don't know where
 - [#datascience](https://twitter.com/search?f=tweets&vertical=news&q=%23datascience&src=typd)
 - [#machinelearning](https://twitter.com/search?f=tweets&q=%23machinelearning&src=typd)
 - [#reproducibility](https://twitter.com/search?f=tweets&q=%23reproducibility&src=typd)
+- [#dataviz](https://twitter.com/search?f=tweets&vertical=default&q=%23dataviz&src=typd)
+ -[#rstatses](https://twitter.com/search?f=tweets&vertical=default&q=%23rstates&src=typd)
+- [#epitwitter](https://twitter.com/search?f=tweets&vertical=default&q=%23epitwitter&src=typd)
+- [#statstwitter](https://twitter.com/hashtag/statstwitter?f=tweets&vertical=default&src=hash)
 
 ## Handles
 
@@ -50,10 +54,30 @@ Want to engage with the  Data science community on Twitter, but don't know where
 - @sckottie (making code - @ropensci co-founder)
 - @StefanieButland (Biologist bioinformatician, connector, knowledge-sharer, @rOpenSci Community Manager, AAAS Community Engagement Fellow, …)
 - @gvwilson ("Remember, you still have a lot of good times in front of you." - Jeff Wilson)
+- @djnavarro (Computational cognitive scientist. Unaccredited Bayesian. Unapologetic Sydneysider. Very apologetic parent. Tired. Trying to be kind.)
+- @FC_rstats (Helping people get started with football analytics in the R language #rstats code sharer https://github.com/FCrSTATS  poster maker https://etsy.me/2VT5fq9 )
+- @beeonaposy (Data, traveling, and tacos. Cubs fan. Lead Data Scientist @onlinemeded. Co-organizer of @rladiesaustin. #pydata, #rstats, #NASAdatanauts)
+- @thomasp85 (Visualisation and Data Science @rstudio. Writes about it on http://www.data-imaginist.com  Support: https://patreon.com/thomasp85  https://paypal.me/thomasp85 )
+- @xieyihui (#rstats #knitr #rmarkdown #bookdown #blogdown. I only read Twitter on Wednesday. Normally I don't answer questions here. I read Stack Overflow questions daily.)
+- @kara_woo (Research scientist at @sagebio. Data curation, visualization, #rstats, reproducibility, open science, ballet.)
+- @romain_francois (👨‍💻 #rstats 📦 with the #tidyverse team.)
+
 
 ### Python people and resources
 - @AllenDowney (Professor at Olin College, author of Think Python, blauthor of Probably Overthinking It, and stark raving Bayesian)
 - @fperez_org (Physicist, data scientist, @IPythonDev creator (evolved into @ProjectJupyter). UC Berkeley Stats Asst. Prof, @BerkeleyLab scientist, adv. @plotlygraphs, climber)
+- @di_codes (Python developer advocate @google, @pypi maintainer, @ThePyPA member, and @pytexas organizer)
+- @avehtari (Assoc. Prof. in Computational Science and Bayesian methods #AaltoPML @CSAalto @AaltoUniversity, BDA3 co-author, @mcmc_stan, GPy, ELFI and GPstuff developer)
+- @twiecki (PyData Scientist and Bayesian modeler. VP of Data Science @quantopian. #PyMC3 developer. Support me on Patreon: http://patreon.com/twiecki)
+- @wesmckinn (Director of OSS not-for-profit https://ursalabs.org/  focused on @ApacheArrow. Created pandas, @IbisData. @ApacheParquet PMC. Wrote Python for Data Analysis.)
+- @DynamicWebPaige (✨🧠 @TensorFlow Mom. Developer Advocate for @GoogleAI. I help you predict the future with computers. 👩‍💻)
+
+### Privacy, Ethics & Security
+- @mer__edith (Researching AI's social implications + organizing w/ tech workers. @ainowinstitute Co-director, NYU Research Scientist, Google Open Research Lead, yoga teacher)
+- @matthew_d_green (I teach cryptography at Johns Hopkins.)
+- @RonDeibert (Director, the Citizen Lab, Munk School of Global Affairs, University of Toronto. https://deibert.citizenlab.ca/ )
+- @privacyint (We fight for the right to privacy across the world. Sign up for all things #privacy #data #surveillance https://action.privacyinternational.org )
+- @citizenlab (Research & development at the intersection of cyberspace, global security & human rights. Munk School of Global Affairs & Public Policy, University of Toronto)
 
 ### Other great people and resources
 - @thecarpentries (The Carpentries: Software Carpentry, Data Carpentry & Library Carpentry. An open global community teaching the skills & perspectives to turn data into knowledge)
@@ -65,3 +89,10 @@ Want to engage with the  Data science community on Twitter, but don't know where
 - @lexnederbragt (Senior lecturer at @UniOslo. Biologist, bioinformatician, educator, @thecarpentries instructor. He/him/his #openscience. http://orcid.org/0000-0001-5539-0999 …)
 - @ctitusbrown (Tripping the light academic. Titus is a professor in the School of VetMed at UC Davis. http://orcid.org/0000-0001-6001-2677 …)
 - [@davidklaing](https://twitter.com/davidklaing) (Data scientist @imbellus, lecturer @UBCMDS.) 
+- @bearloga (Engineer/Analyst/Scientist @Wikimedia (NPO behind @Wikipedia) | Hufflepuff | pumpkin spice fangirl | Russian teddy bear | he/him | http://keybase.io/mikhailpopov)
+- @seanjtaylor (Decision Science Products at Lyft. Keywords: Experiments, Causal Inference, Statistics, Machine Learning, Economics.)
+- @chrisalbon (Using data to fight for something that matters. Director of Data Science @DevotedHealth. Created http://MachineLearningFlashcards.com . Cofounded @NewKnowledgeAI)
+- @vboykis (Born: Jewish in Russia. Raised: guilty in America. Days: Building data products using Python. Newsletter: https://vicki.substack.com/  | @sovietartbot)
+- @lstmemery (Data scientist at Imbellus Inc. Interested in #machinelearning and #ai)
+- @AngeBassa (Professional nerd by day, amateur nerd by night. Head of Data Science & Data Engineering @iRobot. Mathematician from @MIT. Opinions all mine.)
+- @iflores_siaca (Data Scientist | From the Caribbean | UBC-MDS)
