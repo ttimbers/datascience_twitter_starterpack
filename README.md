@@ -8,7 +8,7 @@ Want to engage with the  Data science community on Twitter, but don't know where
 - [#machinelearning](https://twitter.com/search?f=tweets&q=%23machinelearning&src=typd)
 - [#reproducibility](https://twitter.com/search?f=tweets&q=%23reproducibility&src=typd)
 - [#dataviz](https://twitter.com/search?f=tweets&vertical=default&q=%23dataviz&src=typd)
- -[#rstatses](https://twitter.com/search?f=tweets&vertical=default&q=%23rstates&src=typd)
+- [#rstatses](https://twitter.com/search?f=tweets&vertical=default&q=%23rstates&src=typd)
 - [#epitwitter](https://twitter.com/search?f=tweets&vertical=default&q=%23epitwitter&src=typd)
 - [#statstwitter](https://twitter.com/hashtag/statstwitter?f=tweets&vertical=default&src=hash)
 
